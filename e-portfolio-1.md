@@ -14,5 +14,5 @@
 **Week:** 1  
 **Artefact type:** Peer-reviewed journal article  
 **Link:** <https://doi.org/10.1007/s13218-025-00891-y>
-![Process analysis diagram](artefact.png)
+![Process analysis diagram](artefact-1.png)
 
