@@ -38,11 +38,11 @@ Reference:Fettke, P & Di Francescomarino, C 2025, ‘Business process management
 De Michele, W, Armas Cervantes, A & Frermann, L 2025, ‘Automated business process analysis: an LLM-based approach to value assessment’, in L Pufahl, K Rosenthal, S España & S Nurcan (eds), *Intelligent Information Systems: CAiSE 2025*, Springer, Cham, open-access extended version, viewed 6 August 2026, <https://arxiv.org/pdf/2504.06600>.
 
 -----
-## 4: Information Gathering in Business Process Analysis
+## Artefact 3: Information Gathering in Business Process Analysis
 
-**Week:** 3
-**Artefact type**: Professional website article
-**Link:** https://asana.com/resources/business-process-analysis
+**Week:** 3  
+**Artefact type:** Professional website article  
+**Link:** <https://asana.com/resources/business-process-analysis>
 
 
 
