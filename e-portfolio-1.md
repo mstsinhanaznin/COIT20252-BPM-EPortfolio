@@ -32,6 +32,11 @@ Reference:Fettke, P & Di Francescomarino, C 2025, ‘Business process management
 ![screenshot](artefact-2.png)
 **Summary:** De Michele, Armas Cervantes, and Frermann introduce an LLM-based approach to perform value-added process analysis. The procedure involves segmenting higher-level activities into lower-level activities, after which each activity is categorized based on the categories of Lean value. Experiments conducted on 50 process models have revealed that structured prompts produced better results than zero-shot prompts but were constrained by limitations such as mistakes, privacy, and contextual knowledge (De Michele, Armas Cervantes & Frermann 2025, pp. 1, 6-8).
 
+**Justification:** I have selected this artefact because Week 2 is focused on value-added activity from the perspective of distinguishing it from handoffs and controls. The research makes use of the above distinction to find out wasteful processes prior to the re-design process. It is clear that although the LLM can facilitate assessment, its categories are not supposed to dictate what gets eliminated.
+
+**Reference:**  
+De Michele, W, Armas Cervantes, A & Frermann, L 2025, ‘Automated business process analysis: an LLM-based approach to value assessment’, in L Pufahl, K Rosenthal, S España & S Nurcan (eds), *Intelligent Information Systems: CAiSE 2025*, Springer, Cham, open-access extended version, viewed 6 August 2026, <https://arxiv.org/pdf/2504.06600>.
+
 
 
 
