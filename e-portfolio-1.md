@@ -28,7 +28,9 @@ Reference:Fettke, P & Di Francescomarino, C 2025, ‘Business process management
 **Week:** 2  
 **Artefact type:** Peer-reviewed conference paper  
 **Link:** <https://arxiv.org/pdf/2504.06600>
+
 ![screenshot](artefact-2.png)
+**Summary:** De Michele, Armas Cervantes, and Frermann introduce an LLM-based approach to perform value-added process analysis. The procedure involves segmenting higher-level activities into lower-level activities, after which each activity is categorized based on the categories of Lean value. Experiments conducted on 50 process models have revealed that structured prompts produced better results than zero-shot prompts but were constrained by limitations such as mistakes, privacy, and contextual knowledge (De Michele, Armas Cervantes & Frermann 2025, pp. 1, 6-8).
 
 
 
