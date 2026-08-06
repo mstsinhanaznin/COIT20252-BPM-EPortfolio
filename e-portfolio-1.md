@@ -22,5 +22,14 @@
 
 Reference:Fettke, P & Di Francescomarino, C 2025, ‘Business process management and artificial intelligence: literature survey and future research’, KI – Künstliche Intelligenz, vol. 39, viewed 6 August 2026, https://doi.org/10.1007/s13218-025-00891-y.
 
+----
+## Artefact 2: Automated Value-Added Analysis
+
+**Week:** 2  
+**Artefact type:** Peer-reviewed conference paper  
+**Link:** <https://arxiv.org/pdf/2504.06600>
+![screenshot](artefact-2.png)
+
+
 
 
