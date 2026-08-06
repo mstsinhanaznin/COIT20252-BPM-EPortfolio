@@ -47,9 +47,18 @@ De Michele, W, Armas Cervantes, A & Frermann, L 2025, ‘Automated business proc
 ![Screenshot](artefact-3.png)
 **Summary:** Raeburn lists the five process-analysis stages: linking the process to business goals, gathering data on the current state, representing the data gathered, finding ways for improvement and making the necessary changes. The recommended sources are stakeholder interviews, user questionnaires, KPIs, process stages, diagrams and business process participants. The author describes such types of business process analysis as root cause, gap and value stream analysis (Raeburn 2026, 'The 5 steps of business process analysis', paras 1-9).
 
-**Rationale:** I have chosen this artefact since Week 3 involves asking what information an analyst needs to collect along with various collection methods. It links stakeholder evidence to process mapping and performance measurement. What I realized is that interviews may contain certain assumptions and metrics lack context but if combined together, they provide a more accurate view of the current state. Evidence must be collected prior to choosing a method or redesigning processes.
+**Justification:** I have chosen this artefact since Week 3 involves asking what information an analyst needs to collect along with various collection methods. It links stakeholder evidence to process mapping and performance measurement. What I realized is that interviews may contain certain assumptions and metrics lack context but if combined together, they provide a more accurate view of the current state. Evidence must be collected prior to choosing a method or redesigning processes.
 
 Reference:Raeburn, A 2026, ‘Business process analysis: 5 steps, tools, and tips’, Asana, 29 March, viewed 6 August 2026, https://asana.com/resources/business-process-analysis.
+
+---
+
+## Artefact 3: Process Mining for Current-State Analysis and Bottleneck Detection
+
+**Week:** 3  
+**Artefact type:** Master's thesis  
+**Free full-text link:** <https://www.doria.fi/bitstream/handle/10024/192016/wik_matilda.pdf?sequence=2>
+
 
 
 
