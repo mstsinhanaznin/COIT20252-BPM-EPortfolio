@@ -11,4 +11,7 @@
 
 ## Artefact 1: AI-Assisted Business Process Analysis
 
-**
+**Week:** 1  
+**Artefact type:** Peer-reviewed journal article  
+**Link:** <https://doi.org/10.1007/s13218-025-00891-y>
+
