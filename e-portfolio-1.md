@@ -53,11 +53,13 @@ Reference:Raeburn, A 2026, ‘Business process analysis: 5 steps, tools, and tip
 
 ---
 
-## Artefact 3: Process Mining for Current-State Analysis and Bottleneck Detection
+## Artefact 4: Process Mining for Current-State Analysis and Bottleneck Detection
 
 **Week:** 3  
 **Artefact type:** Master's thesis  
 **Free full-text link:** <https://www.doria.fi/bitstream/handle/10024/192016/wik_matilda.pdf?sequence=2>
+
+![Screenshot](artefact-4.png)
 
 
 
