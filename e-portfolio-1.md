@@ -70,7 +70,9 @@ Wik, M 2025, *Continuous improvement for RPA through process mining*, master's t
 
 ---
 
+## AI Disclosure
 
+I used ChatGPT by OpenAI to generate ideas, to perform research and to help me structure my paper. I have examined the sources and publication details of my chosen references to ensure that they are credible and relevant to the task. Finally, I will rework the paper in my own words before submitting it.
 
 
 
