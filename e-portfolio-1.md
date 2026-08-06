@@ -1,10 +1,12 @@
 # COIT20252 Business Process Management
 
-## Assessment 1 — E-Portfolio 1: Process Analysis
+## e-Portfolio 1: Process Analysis
 
 **Student name:** Mst Sinha Naznin  
 **Student ID:** 12285155  
-**Term:** 2
+**Term:** 2 2026
+** Topic: Process Analysis
+Submission: Week 4
 
 ---
 
