@@ -61,6 +61,15 @@ Reference:Raeburn, A 2026, ‘Business process analysis: 5 steps, tools, and tip
 
 ![Screenshot](artefact-4.png)
 
+**Summary:** In this research, Wik applies process mining techniques to the RPA development process within Wärtsilä Marine. Event log was derived from data collected using Azure DevOps work items (1,063). Analysis on process discovery and conformance checking revealed process models, routes, and cycle times that identified some deviations and proved that piloting phase is the one that takes the longest time due to late fault identification (Wik 2025, pp. 39-53, 56-57).
+
+**Justification:** I have chosen this artifact since Week 3 is concerned with the information collected from process analysis and introduces process mining as an evidence-based method. The thesis shows how case IDs, activities, timestamps, paths and throughput times define the current-state process. I have found out that event log evidence could help to identify the loop and bottlenecks that might be overlooked through the interview, but the analysis combined with the stakeholder feedback survey will provide interpretation and suggest possible changes.
+
+**Reference:**  
+Wik, M 2025, *Continuous improvement for RPA through process mining*, master's thesis in Computer Engineering, Åbo Akademi University, Turku, viewed 6 August 2026, <https://urn.fi/URN:NBN:fi-fe2025022814937>.
+
+---
+
 
 
 
