@@ -62,4 +62,9 @@ Reference: Prim, AL & de Oliveira, TL 2025, 'Lessons from the implementation of 
 
 Reference: Santos, TGM 2025, Business process management for operational efficiency: a case study of process redesign in a hospital setting, master's thesis, NOVA Information Management School, Universidade Nova de Lisboa, viewed 27 August 2026, https://run.unl.pt/handle/10362/190259.
 
+## AI Disclosure
+
+I used ChatGPT by OpenAI to generate ideas, to perform research and to help me structure my paper. I have examined the sources and publication details of my chosen references to ensure that they are credible and relevant to the task. Finally, I will rework the paper in my own words before submitting it.
+
+
 
