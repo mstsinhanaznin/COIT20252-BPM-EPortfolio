@@ -12,7 +12,7 @@
 ## Artefact 1: AI-assisted BPMN model generation Using LLMs
 
 **Week:** 4  
-**Artefact type:** Conference paper  
+**Artefact type:** Peer-Reviewed Conference paper  
 **Link:** https://ceur-ws.org/Vol-4099/ER25_PAD_Costa.pdf?utm_source=chatgpt.com
 
 ![Screenshot](artefact-5.png)
