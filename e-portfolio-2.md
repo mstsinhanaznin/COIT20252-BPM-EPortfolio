@@ -23,3 +23,18 @@
 Reference: Costa, A, Wimmer, A & Pufahl, L 2025, 'LLM4BPMNGen: a tool for BPMN generation with LLMs', in Companion proceedings of the 44th International Conference on Conceptual Modeling, CEUR Workshop Proceedings, vol. 4099, pp. 333–337, viewed 27 August 2026, https://ceur-ws.org/Vol-4099/ER25_PAD_Costa.pdf.
 
 
+## Artefact 1: Balanced Scorecard for Process Performance
+
+**Week:** 6  
+**Artefact type:** Peer-Reviewed Journal Article  
+**Link:** https://doi.org/10.3390/jrfm18090508
+
+![Screenshot](artefact-6.png)
+**Summary:** In her paper, Al-Dhubaibi studies the effectiveness of Balanced Scorecard and ABC in facilitating ambidexterity and performance based on 186 answers. The method translates strategy into metrics considering financial, customer, internal-process and learning perspectives. The study finds that the Balanced Scorecard helps improve performance through alignment of efficiency and exploration, not just because of implementation (Al-Dhubaibi 2025, pp. 2, 18-19).
+
+**Justification:** This article was chosen because it provides an empirical foundation to the Balanced Scorecard content of Week 6. The indirect implication of this study is that selection of the metric alone will not work if managers fail to make use of it to link up strategy, process, and learning. As such, I would include outcome metrics like costs and cycle times along with leading metrics like innovation and capability development (Al-Dhubaibi 2025, pp. 19, 21).
+
+Reference: Al-Dhubaibi, AAS 2025, 'Organizational ambidexterity: how Balanced Scorecard (BSC) and activity-based costing (ABC) enable exploration–exploitation synergy and sustainable performance', Journal of Risk and Financial Management, vol. 18, no. 9, article 508, viewed 27 August 2026, https://doi.org/10.3390/jrfm18090508.
+
+
+
