@@ -20,4 +20,6 @@
 
 **Justification:** I chose this artefact because it provides an extension to the discussions on BPMN from Week 4 through an up-to-date example of a modelling tool. It made me realize that while AI can help fill the translation gap between domain experts and modelers through generation of a good draft, it cannot substitute for the modelling expertise itself. I would check gateways, sequence flows, and layouts before archiving and automating the output.
 
-Reference:Costa, A, Wimmer, A & Pufahl, L 2025, 'LLM4BPMNGen: a tool for BPMN generation with LLMs', in Companion proceedings of the 44th International Conference on Conceptual Modeling, CEUR Workshop Proceedings, vol. 4099, pp. 333–337, viewed 27 August 2026, https://ceur-ws.org/Vol-4099/ER25_PAD_Costa.pdf.
+Reference: Costa, A, Wimmer, A & Pufahl, L 2025, 'LLM4BPMNGen: a tool for BPMN generation with LLMs', in Companion proceedings of the 44th International Conference on Conceptual Modeling, CEUR Workshop Proceedings, vol. 4099, pp. 333–337, viewed 27 August 2026, https://ceur-ws.org/Vol-4099/ER25_PAD_Costa.pdf.
+
+
