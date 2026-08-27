@@ -50,5 +50,16 @@ Reference: Al-Dhubaibi, AAS 2025, 'Organizational ambidexterity: how Balanced Sc
 Reference: Prim, AL & de Oliveira, TL 2025, 'Lessons from the implementation of an enterprise architecture: a finance industry case study', Enterprise Architecture Professional Journal, vol. IX, June, viewed 27 August 2026, https://eapj.org/wp-content/uploads/2025/06/Enterprise-Architecture-Professional-Journal-Vol-IX-June-2025.pdf.
 
 
+## Artefact 4: Hospital Process Redesign Through Waste Reduction
+**Week:** 6  
+**Artefact type:** Master’s Thesis  
+**Link:** https://run.unl.pt/handle/10362/190259
+
+![Screenshot](artefact-8.png)
+**Summary:** The hospital consultation process is illustrated by Santos, categorizes activities according to value and waste, and simulates improved alternatives via Bizagi. Of the 27 tasks studied, 45 per cent are value-added, with waiting appearing in one-third of modeled activities. The “to be” model used elimination, composition, automation, and digitization choices, cutting cycle time and wait time in the redesigned subprocesses (Santos 2025, pp. 29-30, 47-48).
+
+**Justification:** This artifact applies the principles of design and types of wastes discussed in Week 6 to delay in hospitals. I realized that redesigning should start by gathering evidence rather than drawing an appealing future-state picture. The involvement of stakeholders, along with value analysis and simulation, identified the bottleneck and the impacts of change suggestions. I would adopt this process before the actual implementation, as the proven future-state design will justify the investment.
+
+Reference: Santos, TGM 2025, Business process management for operational efficiency: a case study of process redesign in a hospital setting, master's thesis, NOVA Information Management School, Universidade Nova de Lisboa, viewed 27 August 2026, https://run.unl.pt/handle/10362/190259.
 
 
