@@ -23,7 +23,7 @@
 Reference: Costa, A, Wimmer, A & Pufahl, L 2025, 'LLM4BPMNGen: a tool for BPMN generation with LLMs', in Companion proceedings of the 44th International Conference on Conceptual Modeling, CEUR Workshop Proceedings, vol. 4099, pp. 333–337, viewed 27 August 2026, https://ceur-ws.org/Vol-4099/ER25_PAD_Costa.pdf.
 
 
-## Artefact 1: Balanced Scorecard for Process Performance
+## Artefact 2: Balanced Scorecard for Process Performance
 
 **Week:** 6  
 **Artefact type:** Peer-Reviewed Journal Article  
@@ -35,6 +35,20 @@ Reference: Costa, A, Wimmer, A & Pufahl, L 2025, 'LLM4BPMNGen: a tool for BPMN g
 **Justification:** This article was chosen because it provides an empirical foundation to the Balanced Scorecard content of Week 6. The indirect implication of this study is that selection of the metric alone will not work if managers fail to make use of it to link up strategy, process, and learning. As such, I would include outcome metrics like costs and cycle times along with leading metrics like innovation and capability development (Al-Dhubaibi 2025, pp. 19, 21).
 
 Reference: Al-Dhubaibi, AAS 2025, 'Organizational ambidexterity: how Balanced Scorecard (BSC) and activity-based costing (ABC) enable exploration–exploitation synergy and sustainable performance', Journal of Risk and Financial Management, vol. 18, no. 9, article 508, viewed 27 August 2026, https://doi.org/10.3390/jrfm18090508.
+
+
+## Artefact 3: Enterprise Architecture Repository as a Knowledge Hub
+**Week:** 5  
+**Artefact type:** Professional Website Article  
+**Link:** https://eapj.org/wp-content/uploads/2025/06/Enterprise-Architecture-Professional-Journal-Vol-IX-June-2025.pdf
+
+![Screenshot](artefact-7.png)
+**Summary:** Prim & de Oliveira analyse the enterprise architecture practice in a financial company from Brazil. The firm created its own value chain, business domains, products and services, technology, and data, and then linked them together in the architecture repository. For three years, the repository grew into the knowledge centre helping to make strategic transformation decisions, and the governance kept proper roadmaps and relationships for more than 500 projects (Prim & de Oliveira 2025, pp. 12-13, 18-19).
+
+**Justification:** This is the article I selected because it applies to the Week 5 process repository and enterprise architecture approaches. It taught me that a repository does not have any value until the artefacts are interconnected, constantly updated and synchronized with the strategic goals. In this case, I would define the owner and the process of reviewing before implementing the process models into the repository.
+
+Reference: Prim, AL & de Oliveira, TL 2025, 'Lessons from the implementation of an enterprise architecture: a finance industry case study', Enterprise Architecture Professional Journal, vol. IX, June, viewed 27 August 2026, https://eapj.org/wp-content/uploads/2025/06/Enterprise-Architecture-Professional-Journal-Vol-IX-June-2025.pdf.
+
 
 
 
