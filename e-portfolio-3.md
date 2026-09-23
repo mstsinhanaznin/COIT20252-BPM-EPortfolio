@@ -22,4 +22,5 @@
 **Justification:** I chose the article because it links Week 7 topics of digital transformation and technology as enabler. It made me understand that simply purchasing an RPA, AI or any other technology alone will not lead to transformation of the process. The organization needs to make sure that technology is linked to process ownership, capabilities of the employees and the culture. At work, I will ensure that the existing process is mapped and the capability gaps are identified before automating the process (Plattfaut & Grisold 2025, pp. 257–261).
 
 Reference: Plattfaut, R & Grisold, T 2025, 'Business process management as a continuous enabler for digital innovation – insights from top executives', Business Process Management Journal, vol. 31, no. 8, pp. 244–266, viewed 22 September 2026, https://doi.org/10.1108/BPMJ-05-2025-0759.
+
 ----
