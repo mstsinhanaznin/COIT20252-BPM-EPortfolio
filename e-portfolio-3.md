@@ -72,6 +72,8 @@ Reference: Provvedini, E 2025, Developing a Common Threat Scoring System (CTSS) 
 
 Reference: Quinn, SD, Chua, J, Ivy, N, Gardner, RK, Kent, K, Smith, MC & Witte, GA 2025, Integrating cybersecurity and enterprise risk management (ERM), NIST Interagency Report 8286 Revision 1, National Institute of Standards and Technology, viewed 22 September 2026, https://doi.org/10.6028/NIST.IR.8286r1.
 
+## AI Disclosure
 
+I used ChatGPT by OpenAI to generate ideas, to perform research and to help me structure my paper. I have examined the sources and publication details of my chosen references to ensure that they are credible and relevant to the task. Finally, I will rework the paper in my own words before submitting it.
 
 
