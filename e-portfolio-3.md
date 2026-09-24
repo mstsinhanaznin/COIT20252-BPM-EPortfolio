@@ -38,3 +38,21 @@ Reference: Plattfaut, R & Grisold, T 2025, 'Business process management as a con
 **Justification:** This article was chosen to back up Week 8's RPA benefits, constraints and vendor/process assessment themes. I found out that even an appropriate repetitive process may be unsuccessful due to insufficient organisational preparedness and governance. In Coles, I would assess criteria such as rules, transaction volume, data structure, exceptions, system integration, personnel capabilities and privacy prior to automating. An evidence-based screening approach would assist me in determining the appropriate RPA application options without involving too many decisions made on a discretionary basis (Frick 2025, pp. 2126–2129).
 
 Reference: Frick, N 2025, 'Relationships between factors influencing robotic process automation adoption in public administrations: a systematic literature review', in Proceedings of the 58th Hawaii International Conference on System Sciences, pp. 2122–2131, viewed 24 September 2026, https://scholarspace.manoa.hawaii.edu/items/c73440b0-f57c-4b9c-a09f-eb50848adf81.
+
+
+----
+
+## Artefact 3:  Cyber Risk Assessment Using Threat Likelihood
+
+**Week:** 9  
+**Artefact type:** Master’s Thesis  
+**Link:** https://essay.utwente.nl/essays/108970
+
+![Screenshot](artefact-11.png)
+
+**Summary:** Provvedini proposes Common Threat Scoring System, which is actor-aware and determines the probability of attack on the organization. The CTSS estimates capability, opportunity, intent and effort based on the answers in the questionnaire and adds to the CVSS measure of severity for prioritization. The method is considered understandable and valuable for decision making; however, there is a tendency towards state actors’ bias and score compression due to ambiguous data (Provvedini 2025, pp. 1–3, 12, 16–18).
+
+**Justification:** This is the reason why I chose this Master’s thesis as it takes the risk assessment activity from Week 9 to another level that goes beyond the use of likelihood-impact matrix. This is where I realized that it is only through scoring that there is transparency when the assumptions, limitations and uncertainties are not hidden. The outcome of such numerical analysis must help the practitioner make a decision and not be the decision itself (Provvedini 2025, pp. 16-18).
+
+Reference: Provvedini, E 2025, Developing a Common Threat Scoring System (CTSS) for cyber risk assessment, master's thesis, University of Twente, viewed 22 September 2026, https://essay.utwente.nl/essays/108970.
+
