@@ -56,3 +56,22 @@ Reference: Frick, N 2025, 'Relationships between factors influencing robotic pro
 
 Reference: Provvedini, E 2025, Developing a Common Threat Scoring System (CTSS) for cyber risk assessment, master's thesis, University of Twente, viewed 22 September 2026, https://essay.utwente.nl/essays/108970.
 
+----
+
+## Artefact 4:  Integrating Process Cybersecurity with Enterprise Risk
+
+**Week:** 8  
+**Artefact type:** Government Publication  
+**Link:** https://csrc.nist.gov/pubs/ir/8286/r1/final
+
+![Screenshot](artefact-12.png)
+
+**Summary:** Quinn et al. clarify how cybersecurity risk management should integrate with enterprise risk management and not stay confined within technical silos. NIST suggests that the threats, probability, impact, response and ownership should be recorded in cybersecurity risk registers, which can be combined into enterprise risk profiles. This integration is intended to align risks with business goals and facilitate constant monitoring and communications (Quinn et al. 2025, pp. 1-3, 12, 34-36).
+
+**Justification:** The reason why I chose this particular government document is that it adds value to the discussion of process-cybersecurity and the NIST Framework during Week 8. What it taught me is that securing a process goes beyond merely implementing controls but requires leaders to have continuous information in order to prioritize risks and resources. In an enrollment breach at a university, I would document the impacted assets, vulnerabilities, likelihood, impact, owners and remediation, and then manage the register.
+
+Reference: Quinn, SD, Chua, J, Ivy, N, Gardner, RK, Kent, K, Smith, MC & Witte, GA 2025, Integrating cybersecurity and enterprise risk management (ERM), NIST Interagency Report 8286 Revision 1, National Institute of Standards and Technology, viewed 22 September 2026, https://doi.org/10.6028/NIST.IR.8286r1.
+
+
+
+
